@@ -1,0 +1,130 @@
+* .iml
+.gradle
+/ local.properties
+/ .idea / cachés
+/ .idea / bibliotecas
+/ .idea / modules.xml
+/ .idea / workspace.xml
+/ .idea / navEditor.xml
+/ .idea / assetWizardSettings.xml
+.DS_Store
+/ construir
+/ capturas
+.externalNativeBuild
+.cxx
+ nombre de componente = " ProjectCodeStyleConfiguration " >
+  < code_scheme name = " Proyecto " versión = " 173 " >
+    < codeStyleSettings language = " XML " >
+      < indentOptions >
+        < option name = " CONTINUATION_INDENT_SIZE " value = " 4 "  / >
+      < / indentOptions >
+      < arreglo >
+        < reglas >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NAME > xmlns : android < / NAME >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > ^ $ < / XML_NAMESPACE >
+                < / Y >
+              < / partido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > xmlns : . * < / NOMBRE >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > ^ $ < / XML_NAMESPACE >
+                < / Y >
+              < / partido >
+              < pedido > BY_NAME </ pedido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > . * : id < / NAME >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > http : // schemas.android.com/apk/res/android </XML_NAMESPACE>
+                < / Y >
+              < / partido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > . * : nombre < / NOMBRE >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > http : // schemas.android.com/apk/res/android </XML_NAMESPACE>
+                < / Y >
+              < / partido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NAME > nombre < / NAME >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > ^ $ < / XML_NAMESPACE >
+                < / Y >
+              < / partido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NAME > estilo < / NAME >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > ^ $ < / XML_NAMESPACE >
+                < / Y >
+              < / partido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > . * < / NOMBRE >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > ^ $ < / XML_NAMESPACE >
+                < / Y >
+              < / partido >
+              < pedido > BY_NAME </ pedido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > . * < / NOMBRE >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > http : // schemas.android.com/apk/res/android </XML_NAMESPACE>
+                < / Y >
+              < / partido >
+              < pedido > ANDROID_ATTRIBUTE_ORDER </ pedido >
+            < / regla >
+          < / sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > . * < / NOMBRE >
+                  < XML_ATTRIBUTE  / >
+                  < XML_NAMESPACE > . * < / XML_NAMESPACE >
+                < / Y >
+              < / partido >
+              < pedido > BY_NAME </ pedido >
+            < / regla >
+          < / sección >
+        < / reglas >
+      < / arreglo >
+    < / codeStyleSettings >
+  < / code_scheme >
+< / componente >
